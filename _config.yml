@@ -42,12 +42,12 @@ twitter:
   username: Timesisnotwaiting # jekyll-seo-tag > Owners twitter username
 author: Timesisnotwaiting # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Zaid Robot # jekyll-seo-tag > real name
+  name: Sunil Kumar Vishwakarma # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://t.me/Timesisnotwaiting
+    - https://wa.me/919424954291
     - https://www.facebook.com/daviddarnes
     - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/ITZ-ZAID
+    - https://github.com/SunilVishwakarma-Advocate
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -93,14 +93,14 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "ZaidRobot" # Site name or title, also used in jekyll-seo-tag
-logo: "https://telegra.ph/file/80be795777e4a60e27f7d.png" # Site logo, also used in jekyll-seo-tag
-description: "Zaid is a telegram management bot projects." # Site description and default description, also used in jekyll-seo-tag
-url: "https://zaid-robot.github.io/" # Site url, also used in jekyll-seo-tag
+title: "Sunil" # Site name or title, also used in jekyll-seo-tag
+logo: "https://telegra.ph/file/2d702636277822a850a1a.jpg" # Site logo, also used in jekyll-seo-tag
+description: "I am From Maihar." # Site description and default description, also used in jekyll-seo-tag
+url: "https://SunilVishwakarma-Advocate.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/ZAID-ROBOT/Zaid-Robot.github.io"
-email: "itsunknown122@gmail.com"
-# disqus: "Zaid-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+repo: "https://github.com/SunilVishwakarma-Advocate/SunilVishwakarma-Advocate.github.io"
+email: ""
+# disqus: "Sunil" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
@@ -125,23 +125,19 @@ navigation_header:
   url: /
 - title: Support
   url: /elements/
-- title: follow Zaid
-  url: https://github.com/ITZ-ZAID
+- title: follow Me on Git
+  url: https://github.com/SunilVishwakarma-Advocate
 
 navigation_footer:
-- title: Created by Zaid Owner
-  url: https://t.me/Timesisnotwaiting
+- title: Created by For contact
+  url: https://wa.me/919424954291
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Telegram: https://ITZ-ZAID
-  Youtube: https://youtube.com/channel/UCfvofekKdV74d9S9-FssY3A
-  GitHub: https://github.com/ITZ-ZAID
-  link: https://t.me/Timesisnotwaiting
+  WhatsApp: https://wa.me/919424954291
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Telegram: "#0d94e7"
-  facebook: "#3B5998"
+  WhatsApp: "#0d94e7"
   Email: true
 
 # Load custom fonts from fonts.google.com etc
