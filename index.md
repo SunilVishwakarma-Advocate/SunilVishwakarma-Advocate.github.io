@@ -9,7 +9,7 @@ excerpt: "This Website Designed By [Aman](https://wa.me/917067770120) To Make Af
 
 Sunil Kumar Vishwakarma  [contact](https://wa.me/919424954291) For handle your any case.
 
-{% include button.html text="WhatsApp" icon="whatsapp" link="https://wa.me/919424954291" color="#0366d6" %} {% include button.html text="Add Zaid Robot ➕" link="https://t.me/Zaid2_Robot?startgroup=true" color="#f68140" %} {% include button.html text="Support" icon="telegram" link="https://t.me/Superior_Support" color="#0d94e7" %} {% include button.html text="Updates Channel ⚗️" link="https://t.me/Superior_Bots" %} {% include button.html text="Donate💲" link="https://rzp.io/l/GODFATHERDONATIONS" color="#f68140" %}
+{% include button.html text="WhatsApp" icon="whatsapp" link="https://wa.me/919424954291" color="#0366d6" %}
 
 ## About Me
 
