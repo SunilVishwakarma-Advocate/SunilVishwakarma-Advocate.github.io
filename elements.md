@@ -17,11 +17,11 @@ aside: true
 ```
 
 
-### Ask Questions To My Owner
+### Ask Questions To Me
 
-{% include button.html text="Email" link="itsunknown122@gmail.com" %}
+{% include button.html text="Email" link="sv587021@gmail.com" %}
 
-{% include button.html text="Instagram" link="https://www.instagram.com/timesisnotwaiting/" icon="instagram" %}
+{% include button.html text="Facebook" link="https://www.instagram.com/Sunil-Vishwakarma/" icon="facebook" %}
 
-{% include button.html text="Telegram" link="https://t.me/Timesisnotwaiting" icon="telegram" %}
+{% include button.html text="WhatsApp" link="https://wa.me/919424954291" icon="WhatsApp" %}
 
